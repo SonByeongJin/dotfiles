@@ -4,6 +4,7 @@
 
 ## 명령어
 ```bash
-git clone https://github.com/yourname/dotfiles ~/dotfiles
-ln -s ~/dotfiles/CLAUDE.md ~/.claude/CLAUDE.md
+git clone https://github.com/SonByeongJin/dotfiles ~/dotfiles
+ln -s ~/dotfiles/CLAUDE.md [file_path]/[file_name]
+# ln -s ~/dotfiles/CLAUDE.md ~/.claude/CLAUDE.md
 ```
